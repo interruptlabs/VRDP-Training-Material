@@ -1,5 +1,5 @@
-# VRDP Training Material
-This repository contains the pre-joining training materials given to aspiring researchers on the Vulnerability Researcher Development Program. 
+# VRDP C and Python Material
+This repository contains the pre-joining training materials given to aspiring researchers on our Vulnerability Researcher Development Programme. 
 
 ## C Tasks
 An introductory guide to the wonderful world of C! Aspiring researchers are taught to think and code in C with challenges and tasks included to test their knowledge along the way.
